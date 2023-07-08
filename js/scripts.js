@@ -110,8 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I am A Full stack Developer."],    /* You can change the home section typing text from
-	                                                                                            here and do not use "&" use "and" */
+            strings: ["I am A DATA SCIENTIST."],    
             typeSpeed: 50
           });
          });
@@ -213,8 +212,8 @@
             maptype: 'ROADMAP',
             markers:[
             {
-            address: "New York",  /* You can change your address from here */
-            html: "<b>Address</b>: <br> Area-2, Rose Area, New York, U.S.A.",   /* You can change display address text from here */
+            address: "New Delhi",  /* You can change your address from here */
+            html: "<b>Address</b>: <br> New Delhi",   /* You can change display address text from here */
             popup: true
             }
             ]
